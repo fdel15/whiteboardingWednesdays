@@ -1,10 +1,28 @@
-##Define time complexity and space complexit in your own words
+##Define In Your Own Words:
+
+**Space Complexity**
+
+**Time Complexity**
+
+
+
+
+
+
+
 
 **WHY WE DO THIS:**
 
 One of the biggest roadblocks to learning is often vocabulary. Our brains work best by making associations to things we already know, so it is an essential skill to be able to break down new concepts into things you are already familiar with and can relate to. The purpose of this exercise is to practice breaking down abstract concepts into ways that make sense to you.
 
-Feyman Technique:
+
+
+
+
+
+
+
+##Feyman Technique:
 
 1. **Choose the concept you want to understand**
 
