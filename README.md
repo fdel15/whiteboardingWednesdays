@@ -25,7 +25,7 @@ time and not overload us with information.
 
 **Prep-work:** 
   - Define any relative terms
-    - ex: What is a Hash Table? 
+    - Ex: What is a Hash Table? 
     - Try breaking it down into terms that you understand using the [Feynman Technique](https://github.com/fdel15/whiteboardingWednesdays/blob/master/feyman_technique.md)
 
 ```
