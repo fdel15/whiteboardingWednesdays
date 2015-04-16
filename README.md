@@ -11,7 +11,7 @@ In order to prepare for technical interviews, DBC students have started a white 
 **Theme:** [Arrays And Strings] (https://github.com/fdel15/whiteboardingWednesdays/tree/master/arrays_and_strings)
 
 
-##Structure for the class
+###Structure For Each Session
 
 **Theme For The Session**
 
