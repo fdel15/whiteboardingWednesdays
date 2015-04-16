@@ -12,7 +12,7 @@
   - What do you expect your code to do?
     - Ex: add(2,4) --> 6 (input: 2,4 output: 6)
   - Try to cover edge cases with your examples
-    -Ex: add() --> what do you want this to return? An error? Nil? 0?
+    - Ex: add() --> what do you want this to return? An error? Nil? 0?
 
 3. **Assumptions**
 
