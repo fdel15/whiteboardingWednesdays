@@ -8,7 +8,7 @@ In order to prepare for technical interviews, DBC students have started a white 
 
 **Time:** 7:00pm - 9:00pm
 
-**Theme:** Arrays And Strings
+**Theme:** [Arrays And Strings] (https://github.com/fdel15/whiteboardingWednesdays/tree/master/arrays_and_strings)
 
 
 ##Structure for the class
