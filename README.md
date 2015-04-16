@@ -13,7 +13,15 @@ In order to prepare for technical interviews, DBC student’s have started a whi
 
 ##Structure for the class
 
-**Theme for the session (ex: Hash Tables)** 
+**Theme for the session**
+
+```
+WHY WE DO THIS
+
+Each session will have a central theme to help us focus on one data structure or algorithm at a
+time and not overload us with information.
+
+```
 
 **Prep-work:** 
   - Define (in your words using the Feynman technique) any relative terms
@@ -116,4 +124,3 @@ and tradeoffs from multiple solutions.
 
 [Feynman Technique](https://github.com/fdel15/whiteboardingWednesdays/blob/master/feyman_technique.md)
 
-[Visit GitHub!](www.github.com)
