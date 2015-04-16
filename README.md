@@ -1,5 +1,3 @@
-#DBC::NYC Whiteboarding Wednesdays
-
 ##DBC White Board Wednesdays
 
 In order to prepare for technical interviews, DBC student’s have started a white boarding group on Wednesday nights at DBC’s school in New York. I have the opportunity to host next week’s white boarding session. The purpose of this document is to provide some structure.
@@ -111,3 +109,11 @@ Hopefully students have found a few different solutions to each problem and we c
 and tradeoffs from multiple solutions.
 
 ```
+
+##Resources
+
+[System For Solving Algorithms](https://github.com/fdel15/whiteboardingWednesdays/blob/master/algorithm_system.md)
+
+[Feynman Technique](https://github.com/fdel15/whiteboardingWednesdays/blob/master/feyman_technique.md)
+
+[Visit GitHub!](www.github.com)
