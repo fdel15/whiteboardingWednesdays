@@ -14,4 +14,4 @@
 
 4. **Simplify your language**
 
-  The goal is to use your words, not hte words of the source matiral. If your explanation is wordy or confusing, that's an indication that you might not understand the idea as well as you thought - try to simplify the language or create an analogy to better understand it.
+  The goal is to use your words, not the words of the source material. If your explanation is wordy or confusing, that is an indication that you might not understand the idea as well as you thought - try to simplify the language or create an analogy to better understand it.
