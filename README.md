@@ -1,6 +1,6 @@
 ##DBC White Board Wednesdays
 
-In order to prepare for technical interviews, DBC student’s have started a white boarding group on Wednesday nights at DBC’s school in New York. I have the opportunity to host next week’s white boarding session. The purpose of this document is to provide some structure.
+In order to prepare for technical interviews, DBC students have started a white boarding group on Wednesday nights at DBC’s school in New York. I have the opportunity to host next week’s white boarding session. The purpose of this document is to provide some structure.
 
 ##Next Session
 
@@ -13,7 +13,7 @@ In order to prepare for technical interviews, DBC student’s have started a whi
 
 ##Structure for the class
 
-**Theme for the session**
+**Theme For The Session**
 
 ```
 WHY WE DO THIS
@@ -24,21 +24,22 @@ time and not overload us with information.
 ```
 
 **Prep-work:** 
-  - Define (in your words using the Feynman technique) any relative terms
-  - ex: What is a Hash Table? break it down into terms that you understand
+  - Define any relative terms
+    - ex: What is a Hash Table? 
+    - Try breaking it down into terms that you understand using the [Feynman Technique](https://github.com/fdel15/whiteboardingWednesdays/blob/master/feyman_technique.md)
 
 ```
 WHY WE DO THIS
 
 One of the biggest roadblocks to learning is often vocabulary. Our brains work best by making
-associations to thingswe already know, so it is an essential skill to be able to break down new 
+associations to things we already know. It is an essential skill to be able to break down new 
 concepts into things you are already familiar with and can relate to. The purpose of this exercise 
 is to practice breaking down abstract concepts into ways that make sense to you.
 
 ```
 
-* 2-3 problems based on the theme
-* studnets are expected to solve these problems and come to the session prepared
+* 2 to 3 problems based on the theme
+	* Students are expected to solve these problems and come to the session prepared
 
 ```
 WHY WE DO THIS:
@@ -51,8 +52,8 @@ problems and solution patterns.
 
 **Whiteboarding Session:**
 
-* 2-3 students go to whiteboard and put their definitions up on the board (5 mins)
-* each student then has to “teach” the class the term they defined (provide example maybe?)
+* 2 to 3 students define that week's relative terms on the whiteboard
+* Each student then has to “teach” the class the term they defined
 
 ```
 WHY WE DO THIS
@@ -61,8 +62,9 @@ Practice explaining your thought process and speaking in front of a whiteboard.
 
 ```
 
-* Students are divided into 2-3 groups and assigned one of the prep-work problems
-* each student solves the problem (without being able to reference their notes from the prep-work) and student from each group is randomly chosen to solve it on the board (using Greg’s technique)
+* Students are divided into 2 to 3 groups and assigned one of the prep-work problems
+* Each student solves the problem (without being able to reference their notes from the prep-work)
+* One student from each group is randomly chosen to solve it on the whiteboard (using [Greg’s technique](https://github.com/fdel15/whiteboardingWednesdays/blob/master/algorithm_system.md))
 
 ```
 WHY WE DO THIS
@@ -73,9 +75,9 @@ system.
 
 ```
 
-* if student at board did not prepare a solution before hand or is not able to solve the problem he may get help from his group 
-* no one else in the group is allowed to write on the whiteboard
-* they will have to articulate both what to do and why to do it to their teammate using Greg’s system.
+* If student at board is not able to solve the problem they may get help from their group 
+	* No one else in the group is allowed to write on the whiteboard
+	* They will have to articulate both what to do and why to do it to their teammate using Greg’s system.
 
 ```
 WHY WE DO THIS
@@ -87,7 +89,7 @@ memebers to practice explaining their thought process in a coherent way.
 
 ```
 
-* each person at the whiteboard walks through their solution using Greg’s system:
+* Each person at the whiteboard walks through their solution using Greg’s system:
 	1. Function Signatures
 	2. Examples
 	3. Assumptions
@@ -98,23 +100,22 @@ memebers to practice explaining their thought process in a coherent way.
 ```
 WHY WE DO THIS
 
-There are millions of different questions that you could be asked for any given interview so it is 
+There are millions of different questions that you could be asked for any given interview. It is 
 not feasible to try and prepare for every possible question you may be asked. This makes developing 
-a system to solve technical questions essential. By going through the same process each time,
-regardless of the questions, you are less likely to get “stuck” and are more likely to recognize
-patterns in the solutions. We are going to rely on Greg’s experience at Google and expertise in this
-area to be the baseline for our system, but each student should modify it in a way that makes most
-sense to them.
+a system to solve technical questions essential. By going through the same process each time, you 
+are less likely to get “stuck” and are more likely to recognize patterns in the solutions. We are 
+going to rely on Greg’s experience at Google and expertise in this area to be the baseline for our 
+system, but each student should modify it in a way that makes most sense to them.
 
 ```
 
-* after each presentation, we discuss the solution and open the floor to alternative solutions and why that solution is better
+* After each presentation, we discuss the solution and open the floor to alternative solutions
 
 ```
 WHY WE DO THIS
 
-Hopefully students have found a few different solutions to each problem and we can discuss assumptions,
-and tradeoffs from multiple solutions.
+Hopefully students have found a few different solutions to each problem and we can discuss 
+tradeoffs between multiple solutions.
 
 ```
 
