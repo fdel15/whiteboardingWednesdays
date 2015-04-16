@@ -10,7 +10,7 @@ In order to prepare for technical interviews, DBC student’s have started a whi
 
 **Time:** 7:00pm - 9:00pm
 
-**Theme:** Hash Tables
+**Theme:** Arrays And Strings
 
 
 ##Structure for the class
