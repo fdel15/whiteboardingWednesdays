@@ -1,8 +1,8 @@
 ##Define In Your Own Words:
 
-**Space Complexity**
+**Array**
 
-**Time Complexity**
+**String**
 
 
 
