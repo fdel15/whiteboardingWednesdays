@@ -39,7 +39,7 @@ is to practice breaking down abstract concepts into ways that make sense to you.
 ```
 
 * 2 to 3 problems based on the theme
-	* Students are expected to solve these problems and come to the session prepared
+* Students are expected to solve these problems and come to the session prepared
 
 ```
 WHY WE DO THIS:
@@ -116,6 +116,16 @@ WHY WE DO THIS
 
 Hopefully students have found a few different solutions to each problem and we can discuss 
 tradeoffs between multiple solutions.
+
+```
+
+*Students are given a new problem to work on
+
+```
+WHY WE DO THIS
+
+To practice what it is like walking into a technical interview and not knowing what you will be asked.
+By applying the same 
 
 ```
 
