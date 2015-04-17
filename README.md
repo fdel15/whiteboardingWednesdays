@@ -124,8 +124,8 @@ tradeoffs between multiple solutions.
 ```
 WHY WE DO THIS
 
-To practice what it is like walking into a technical interview and not knowing what you will be asked.
-By applying the same 
+To practice what it is like walking into a technical interview and not knowing what 
+you will be asked.
 
 ```
 
