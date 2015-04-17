@@ -119,7 +119,7 @@ tradeoffs between multiple solutions.
 
 ```
 
-*Students are given a new problem to work on
+* Students are given a new problem to work on
 
 ```
 WHY WE DO THIS
