@@ -27,7 +27,7 @@ time and not overload us with information.
 ```
 
 **Prep-work:** 
-  - Define any relative terms
+  - Define that week's vocab words
     - Ex: What is a Hash Table? 
     - Try breaking it down into terms that you understand using the [Feynman Technique](https://github.com/fdel15/whiteboardingWednesdays/blob/master/feyman_technique.md)
 
@@ -55,7 +55,7 @@ problems and solution patterns.
 
 **Whiteboarding Session:**
 
-* 2 to 3 students define that week's relative terms on the whiteboard
+* 2 to 3 students define that week's vocabulary words on the whiteboard
 * Each student then has to “teach” the class the term they defined
 
 ```
