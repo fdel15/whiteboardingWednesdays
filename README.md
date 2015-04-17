@@ -67,7 +67,7 @@ Practice explaining your thought process and speaking in front of a whiteboard.
 
 * Students are divided into 2 to 3 groups and assigned one of the prep-work problems
 * Each student solves the problem (without being able to reference their notes from the prep-work)
-* One student from each group is randomly chosen to solve it on the whiteboard (using [Greg’s system to solve algorithms](https://github.com/fdel15/whiteboardingWednesdays/blob/master/algorithm_system.md))
+* One student from each group is randomly chosen to solve it on the whiteboard (using [Greg’s system to solve algorithms](https://github.com/fdel15/whiteboardingWednesdays/blob/master/algorithm_system.md)
 
 ```
 WHY WE DO THIS
@@ -80,7 +80,7 @@ system.
 
 * If student at board is not able to solve the problem they may get help from their group 
 	* No one else in the group is allowed to write on the whiteboard
-	* They will have to articulate both what to do and why to do it to their teammate using [Greg’s system to solve algorithms](https://github.com/fdel15/whiteboardingWednesdays/blob/master/algorithm_system.md)).
+	* They will have to articulate both what to do and why to do it to their teammate using [Greg’s system to solve algorithms](https://github.com/fdel15/whiteboardingWednesdays/blob/master/algorithm_system.md).
 
 ```
 WHY WE DO THIS
@@ -92,7 +92,7 @@ memebers to practice explaining their thought process in a coherent way.
 
 ```
 
-* Each person at the whiteboard walks through their solution using [Greg’s system to solve algorithms](https://github.com/fdel15/whiteboardingWednesdays/blob/master/algorithm_system.md)):
+* Each person at the whiteboard walks through their solution using [Greg’s system to solve algorithms](https://github.com/fdel15/whiteboardingWednesdays/blob/master/algorithm_system.md):
 	1. Function Signatures
 	2. Examples
 	3. Assumptions
