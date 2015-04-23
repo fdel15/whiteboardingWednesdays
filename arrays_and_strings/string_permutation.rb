@@ -3,12 +3,6 @@
 
 
 
-
-
-
-
-
-
 # ##System For Solving Algorithms
 
 # 1. **Function Signatures**

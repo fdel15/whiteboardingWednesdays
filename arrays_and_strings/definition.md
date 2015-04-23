@@ -1,4 +1,11 @@
-##Define time complexity and space complexit in your own words
+##Define Array and String in your own words
+
+Array (in ruby) - Arrays are ordered, integer-indexed collections of any object.
+
+String (in ruby) - A String object holds and manipulates an arbitrary sequence of bytes, typically representing characters
+
+
+
 
 **WHY WE DO THIS:**
 
