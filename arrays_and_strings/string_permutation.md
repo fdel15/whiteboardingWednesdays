@@ -3,7 +3,7 @@
 
 
 
- ##System For Solving Algorithms
+##System For Solving Algorithms
 
 1. **Function Signatures**
 
