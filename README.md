@@ -7,11 +7,11 @@ In order to prepare for technical interviews, DBC students have started a white 
 
 ##Next Session
 
-**Date:** April 29
+**Date:** May 6
 
 **Time:** 7:00pm - 9:00pm
 
-**Theme:** [Linked Lists] (https://github.com/fdel15/whiteboardingWednesdays/tree/master/linked_lists)
+**Theme:** [Stacks and Ques] (https://github.com/fdel15/whiteboardingWednesdays/tree/master/stacks_and_ques)
 
 
 ###Structure For Each Session
