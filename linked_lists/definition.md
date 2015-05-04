@@ -1,7 +1,11 @@
-##Define Linked List in your own words
+##Define your own words
 
 What are the differences between an Array and a Linked List?
-In what situations is a Linked List a better data structure than an Array and vice versa?
+
+
+
+
+
 
 
 ```
