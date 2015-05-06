@@ -11,7 +11,7 @@ In order to prepare for technical interviews, DBC students have started a white 
 
 **Time:** 7:00pm - 9:00pm
 
-**Theme:** [Stacks and Ques] (https://github.com/fdel15/whiteboardingWednesdays/tree/master/stacks_and_ques)
+**Theme:** [Stacks and Queues] (https://github.com/fdel15/whiteboardingWednesdays/tree/master/stacks_and_ques)
 
 
 ###Structure For Each Session

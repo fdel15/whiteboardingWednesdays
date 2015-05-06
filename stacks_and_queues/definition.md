@@ -1,16 +1,11 @@
-##Define Stack and Que in your own words
+##Define Stack and Queues in your own words
 
-What is the difference between a stack and a que?
-
-When would you rather use a que instead of a stack?
-
-When would you rather use a stack instead of a que?
 
 ```
 WHY WE DO THIS
 
 One of the biggest roadblocks to learning is often vocabulary. Our brains work best by making
-associations to things we already know, so it is an essential skill to be able to break down new
+associations to thingswe already know, so it is an essential skill to be able to break down new
 concepts into things you are already familiar with and can relate to. The purpose of this exercise
 is to practice breaking down abstract concepts into ways that make sense to you.
 ```
@@ -35,4 +30,4 @@ is to practice breaking down abstract concepts into ways that make sense to you.
 
 4. **Simplify your language**
 
-  The goal is to use your words, not the words of the source material. If your explanation is wordy or confusing, that's an indication that you might not understand the idea as well as you thought - try to simplify the language or create an analogy to better understand it.
+  The goal is to use your words, not hte words of the source matiral. If your explanation is wordy or confusing, that's an indication that you might not understand the idea as well as you thought - try to simplify the language or create an analogy to better understand it.
