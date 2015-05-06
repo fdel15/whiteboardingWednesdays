@@ -88,7 +88,7 @@ WHY WE DO THIS
 If the person randomly chosen to whiteboard does not know how to solve the problem, they are still
 required to think through and solve it with the help of their group. They need to know why they are
 doing each step so that they can explain it to the entire class. This also allows the other group
-memebers to practice explaining their thought process in a coherent way.
+members to practice explaining their thought process in a coherent way.
 
 ```
 
@@ -118,7 +118,7 @@ system, but each student should modify it in a way that makes most sense to them
 WHY WE DO THIS
 
 Hopefully students have found a few different solutions to each problem and we can discuss
-tradeoffs between multiple solutions.
+trade offs between multiple solutions.
 
 ```
 

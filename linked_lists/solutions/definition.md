@@ -4,7 +4,7 @@ It's easier for a linked list to grow organizcally. An array's size needs to be 
 
 Shuffling a linked list is just a matter of changing what points to what. Shuffling an array is more complicated and/or takes more memory.
 
-As longa s your iterations all happen in foreach context, you don't lose any performance in iteration.
+As long as your iterations all happen in foreach context, you don't lose any performance in iteration.
 
 Arrays allow random access, while linked lists allow only sequential access to elements.
 
