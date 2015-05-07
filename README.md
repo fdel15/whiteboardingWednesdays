@@ -7,11 +7,11 @@ In order to prepare for technical interviews, DBC students have started a white 
 
 ##Next Session
 
-**Date:** May 6
+**Date:** May 13
 
 **Time:** 7:00pm - 9:00pm
 
-**Theme:** [Stacks and Queues] (https://github.com/fdel15/whiteboardingWednesdays/tree/master/stacks_and_ques)
+**Theme:** [Trees And Graphs] (https://github.com/fdel15/whiteboardingWednesdays/tree/master/trees_and_graphs)
 
 
 ###Structure For Each Session
