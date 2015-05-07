@@ -1,5 +1,10 @@
 ##Define Stack and Queues in your own words
 
+What is the difference between a stack and a que?
+
+When would you rather use a que instead of a stack?
+
+When would you rather use a stack instead of a que?
 
 ```
 WHY WE DO THIS
