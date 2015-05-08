@@ -7,7 +7,7 @@ class Node
 end
 
 class LinkedList
-  attr_accessor :head
+  attr_reader :head
 
   def initialize(head=nil)
     @head = head
@@ -27,20 +27,23 @@ class LinkedList
 
   def remove(index)
     if index == 0
+      removed_node = @head
       @head = @head.next
     else
-      remove_node = self.[](index)
-      next_node = remove_node.next
+      removed_node = self.[](index)
+      next_node = removed_node.next
       prev_node = self.[](index - 1)
       prev_node.next = next_node
     end
+    removed_node
   end
 
-  def [](int)
+  def [](int=0)
     i = 0
     current_node = @head
     while i < int
-      current_node = @head.next
+     return nil if current_node.next.nil?
+      current_node = current_node.next
       i += 1
     end
     current_node
