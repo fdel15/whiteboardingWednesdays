@@ -7,7 +7,7 @@ In order to prepare for technical interviews, DBC students have started a white 
 
 ##Next Session
 
-**Date:** May 13
+**Date:** May 20
 
 **Time:** 7:00pm - 9:00pm
 
